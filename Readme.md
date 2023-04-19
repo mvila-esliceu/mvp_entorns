@@ -4,7 +4,7 @@
 
 $ git add Readme.md
 
-$ git commit -m 'Primer commit'
+$ git commit -m 'Primer commit'  --> puja el primer canvi amb aquest comentari
 
 $ git branch -M main
 
