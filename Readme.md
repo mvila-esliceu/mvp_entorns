@@ -14,3 +14,6 @@ $ git push -u origin main
 
 
 Canvi afegit a github
+
+
+Segon canvi afegit a remote
