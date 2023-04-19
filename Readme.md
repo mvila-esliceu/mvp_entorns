@@ -12,3 +12,5 @@ $ git remote add origin https://github.com/mvila-esliceu/mvp_entorns.git
 
 $ git push -u origin main
 
+
+Canvi afegit a github
