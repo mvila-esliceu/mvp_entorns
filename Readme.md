@@ -8,7 +8,7 @@ $ git commit -m 'Primer commit'  --> puja el primer canvi amb aquest comentari
 
 $ git branch -M main
 
-$ git remote add origin https://github.com/mvila-esliceu/mvp_entorns.git
+$ git remote add origin https://github.com/mvila-esliceu/mvp_entorns.git  --> especiica el repositori remot
 
 $ git push -u origin main
 
