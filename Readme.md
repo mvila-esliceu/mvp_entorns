@@ -1,4 +1,4 @@
-#Hi Worlddddddd
+#Hi Worlddddddd - versio local
 
 #Inicialitzar un repositori
 
