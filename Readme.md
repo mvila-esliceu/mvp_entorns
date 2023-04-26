@@ -24,3 +24,7 @@ Canvi fet al branch: primera_branca
 
 Segon canvi fet al branch local
 
+
+
+
+Canvi local a segona_branca
