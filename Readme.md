@@ -1,8 +1,8 @@
 #Hi Worlddddddd - versio local --> modiicat a sa branch quarta
 
-#Inicialitzar un repositori
 
 $ git add Readme.md
+#Inicialitzar un repositori --> modiicat a sa branch quarta en local
 
 $ git commit -m 'Primer commit'  --> puja el primer canvi amb aquest comentari
 
