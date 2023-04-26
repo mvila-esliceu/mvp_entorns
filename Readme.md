@@ -28,3 +28,6 @@ Segon canvi fet al branch local
 
 
 Canvi fet a main en remot.
+
+Canvi local a segona_branca
+
