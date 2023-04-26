@@ -1,4 +1,4 @@
-#Hi Worlddddddd - versio local
+#Hi Worlddddddd - versio local --> canvi ficat a main per provocar conflicte
 
 #Inicialitzar un repositori
 
