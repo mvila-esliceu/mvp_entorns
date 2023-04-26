@@ -1,6 +1,6 @@
 #Hi Worlddddddd - versio local --> modiicat a sa branch quarta
 
-#Inicialitzar un repositori
+#Inicialitzar un repositori --> modiicat a sa branch quarta en local
 
 $ git add Readme.md
 
