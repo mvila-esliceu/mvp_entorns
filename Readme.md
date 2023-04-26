@@ -17,3 +17,10 @@ Canvi afegit a github
 
 
 Segon canvi afegit a remote
+
+
+
+Canvi fet al branch: primera_branca
+
+Segon canvi fet al branch local
+
