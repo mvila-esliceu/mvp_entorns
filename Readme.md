@@ -33,6 +33,7 @@ Canvi local a segona_branca
 
 
 Now canvi a main --> remote change
+                 --> local change
 
 provant git rebase
 
