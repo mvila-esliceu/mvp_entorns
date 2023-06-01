@@ -32,7 +32,7 @@ Canvi fet a main en remot.
 Canvi local a segona_branca
 
 
-Now canvi a main
+Now canvi a main --> remote change
 
 provant git rebase
 
