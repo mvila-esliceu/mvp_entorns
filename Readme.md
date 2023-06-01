@@ -33,3 +33,5 @@ Canvi local a segona_branca
 
 
 Now canvi a main
+
+provant git rebase
