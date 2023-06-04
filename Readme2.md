@@ -64,3 +64,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+També es poden fer fórmules matemàtiques.
